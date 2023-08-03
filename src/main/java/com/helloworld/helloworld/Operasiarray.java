@@ -12,7 +12,7 @@ arraylong[0] = 100;
         System.out.println(arraylong.length);
 
         String[][] members = {
-                        { "Farhan", "Taufiqul", "Ihsan" },
+                        { "Oktaviko", "Rizki", "Pratamma" },
                         { "Joko", "Purwanto" },
                         { "Iwan", "Abdul" }
         };
