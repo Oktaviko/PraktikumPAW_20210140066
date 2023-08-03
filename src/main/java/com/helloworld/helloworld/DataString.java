@@ -10,6 +10,6 @@ public class DataString {
 
         System.out.println(firstname);
         System.out.println(lastname);
-        System.out.println(fullname);
+        System.out.println(fullname);   
     }
 }
