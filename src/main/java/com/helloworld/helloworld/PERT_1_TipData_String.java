@@ -1,11 +1,11 @@
 package com.helloworld.helloworld;
 
-public class DataString {
+public class PERT_1_TipData_String {
     public static void main(String[] args) {
         System.out.println("\n");
         System.out.println("Tipe data String");
-        String firstname = "Farhan Taufiqul";
-        String lastname = "Ihsan";
+        String firstname = "Oktaviko Rizki";
+        String lastname = "Pratama";
         String fullname = firstname + " " + lastname;
 
         System.out.println(firstname);

@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class Tipecharacter {
+public class PERT_1__TipDatCar {
     public static void main(String[] args) {
         System.out.println("\n");
         System.out.println("Tipe data char");

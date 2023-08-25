@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class TipeBoolean {
+public class PERT_1_TipBoolean {
     public static void main(String[] args) {
         System.out.println("\n");
         System.out.println("Boolean");

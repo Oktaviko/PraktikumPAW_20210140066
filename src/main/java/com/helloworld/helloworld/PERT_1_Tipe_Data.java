@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class TipeDataNumber {
+public class PERT_1_Tipe_Data {
     public static void main(String[] args) {
         byte iniByte = 100;
         short iniShort = 1000;
