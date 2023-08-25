@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class methodparameter {
+public class Pres_5_MetParameter {
     public static void main(String[] args) {
         sayHello(" Okta"," Alfi");
     }

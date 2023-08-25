@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class ForEACH {
+public class Pres_4_ForEach {
     public static void main(String[] args) {
         String [] array = {
             "Okta", "Viko", "RIzki",

@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class komentar {
+public class Pres_5_Komentar {
     /**
      * Menghitung jumlah a + b
      * 

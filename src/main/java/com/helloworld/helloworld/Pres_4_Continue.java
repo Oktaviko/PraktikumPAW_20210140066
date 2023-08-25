@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class Continue {
+public class Pres_4_Continue {
     public static void main(String[] args) {
         for (int counter =1; counter <= 100; counter++){
             if (counter %2 == 0){

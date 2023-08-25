@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class method {
+public class Pres_5_Method {
     public static void main(String[] args) {
         sayHelloWorld();
     }

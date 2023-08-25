@@ -1,15 +1,11 @@
 package com.helloworld.helloworld;
 
-public class Break {
+public class Pres_4_WhileLoop {
     public static void main(String[] args) {
         var counter =1;
-        while (true){
+        while (counter <= 10){
             System.out.println("Perulangan ke-" + counter);
             counter++;
-
-            if (counter > 10){
-                break;
-            }
         }
     }
 }

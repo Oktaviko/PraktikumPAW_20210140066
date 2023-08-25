@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class Operasiarray {
+public class PERT_2_OperasiArray {
     public static void main(String[] args) {
         long[] arraylong = {
             10, 90, 80, 67, 29

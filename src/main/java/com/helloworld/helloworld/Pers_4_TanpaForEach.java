@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class TanpaForEach {
+public class Pers_4_TanpaForEach {
     public static void main(String[] args) {
         String [] array = {
             "Okta", "Viko", "RIzki",

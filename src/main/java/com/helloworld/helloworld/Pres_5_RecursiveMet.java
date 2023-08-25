@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class factorialrecursive {
+public class Pres_5_RecursiveMet {
     static int factorialRecurcive(int value) {
         if (value == 1) {
             return 1;

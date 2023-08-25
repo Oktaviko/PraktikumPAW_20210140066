@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class methodreturnvalue {
+public class Pres_5_MetReturnValue {
     public static void main(String[] args) {
         var a = 100;
         var b = 200;

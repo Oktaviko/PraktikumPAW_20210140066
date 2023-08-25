@@ -2,7 +2,7 @@ package com.helloworld.helloworld;
 
 public class Materi_3_ElsIfState {
     public static void main(String[] args) {
-        var nilai = 95;
+        var nilai = 75;
         var absen = 90;
 
         if (nilai >= 80 && absen >= 80) {

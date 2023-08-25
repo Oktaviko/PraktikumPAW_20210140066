@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class SwitchLamda {
+public class Materi_3_SwitchLambada {
     public static void main(String[] args) {
         var nilai = "A";
 

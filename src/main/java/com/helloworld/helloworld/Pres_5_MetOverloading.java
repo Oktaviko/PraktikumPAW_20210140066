@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class MethodOverloadingg {
+public class Pres_5_MetOverloading {
     static String sayHello(String firsName){
         //System.out.println("Hello" + firsName);
         return firsName

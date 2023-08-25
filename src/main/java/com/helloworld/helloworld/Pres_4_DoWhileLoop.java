@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class DoWHileLoop {
+public class Pres_4_DoWhileLoop {
     public static void main(String[] args) {
         var counter = 100;
 

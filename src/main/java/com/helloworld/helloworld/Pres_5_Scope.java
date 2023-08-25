@@ -1,15 +1,15 @@
-package com.helloworld;
+package com.helloworld.helloworld;
 
-public class scope {
+public class Pres_5_Scope {
     static void sayHello(String name) {
         String hello = "Hello " + name;
         if (!name.isBlank()) {
             String hi = "Hi " + name;
             System.out.println(hi);
         }
-
         System.out.println(hello);
         // System.out.println(hi); // error
+
     }
 
     public static void main(String[] args) {
