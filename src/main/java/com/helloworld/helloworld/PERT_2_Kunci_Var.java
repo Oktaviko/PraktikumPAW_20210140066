@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class Varkey {
+public class PERT_2_Kunci_Var {
    public static void main(String[] args) {
      int age = 30;
     String address = "Indonesia";

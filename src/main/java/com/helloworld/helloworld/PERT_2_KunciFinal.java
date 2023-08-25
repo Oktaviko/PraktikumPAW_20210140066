@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class KunciFial {
+public class PERT_2_KunciFinal {
     public static void main(String[] args) {
         System.out.println("\n");
                 System.out.println("Final");

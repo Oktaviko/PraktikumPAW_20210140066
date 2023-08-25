@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class DataArray {
+public class PERT_2_TipeDatArray {
     public static void main(String[] args) {
         String[] arrayString;
                 arrayString = new String[3];

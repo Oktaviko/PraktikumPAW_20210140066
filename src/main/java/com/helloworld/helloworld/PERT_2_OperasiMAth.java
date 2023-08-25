@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class Operasimath {
+public class PERT_2_OperasiMAth {
     public static void main(String[] args) {
         System.out.println("\n");
         System.out.println("Operasi Matematika");

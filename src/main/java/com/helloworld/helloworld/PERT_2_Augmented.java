@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class AugmentedAss {
+public class PERT_2_Augmented {
     public static void main(String[] args) {
         System.out.println("\n");
                 System.out.println("Augmented Assignment");
