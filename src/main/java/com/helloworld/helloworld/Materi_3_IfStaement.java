@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class IfStatement {
+public class Materi_3_IfStaement {
     public static void main(String[] args) {
         var nilai = 70;
         var absen = 90;

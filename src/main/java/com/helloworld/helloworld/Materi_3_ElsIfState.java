@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class ElseIfState {
+public class Materi_3_ElsIfState {
     public static void main(String[] args) {
         var nilai = 95;
         var absen = 90;

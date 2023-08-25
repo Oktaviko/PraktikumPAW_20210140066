@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class Perbandingan {
+public class Materi_3_OpPerbandingan {
     public static void main(String[] args) {
         // Operasi Perbandingan
         int value1 = 100;

@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class Boolean {
+public class Materi_3_Boolean {
     public static void main(String[] args) {
         var absen = 70;
         var nilaiAkhir = 80;

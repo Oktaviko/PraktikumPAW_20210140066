@@ -1,6 +1,6 @@
 package com.helloworld.helloworld;
 
-public class SwitchStatement {
+public class Materi_3_SwitchState {
     public static void main(String[] args) {
         var nilai = "B";
         switch (nilai) {
